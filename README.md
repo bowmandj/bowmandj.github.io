@@ -1,2 +1,3 @@
 # bowmandj.github.io
-Personal Site
+This is the repository for my personal site -- https://bowmandj.github.io
+
